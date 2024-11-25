@@ -1,6 +1,6 @@
 # 👋 Bonjour, moi c'est Theo FERRETE  
 
-![Bannière](Banniere_G.jpg)
+![Bannière](Banniere G.jpg)
 
 -----
 
