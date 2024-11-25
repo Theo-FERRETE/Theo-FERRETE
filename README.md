@@ -13,6 +13,8 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir exper
 - 🌍 **Langues** :  
   - Français : Natif  
   - Anglais : Courant  
+  --
+
 - 🎯 **Objectif** :  
   - Moderniser les sites web pour les rendre plus intuitifs et dynamiques.  
   - Décrocher mon diplôme tout en continuant à apprendre de nouvelles compétences.  
@@ -25,7 +27,7 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir exper
 1. **Fansite : Eminem**  
    - Description rapide : Mon premier fansite créé pour la star Eminem.  
    - Principales technologies utilisées : HTML, CSS, Responsive Design.  
-   - Lien vers le projet :<li><a href="fansite1.html">Eminem</a></li> 
+   - Lien vers le projet : https://github.com/Theo-FERRETE/Site-Fan/blob/main/fansite1.html
 
 ---
 
