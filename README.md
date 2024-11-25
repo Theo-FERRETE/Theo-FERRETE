@@ -25,7 +25,7 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir exper
 1. **Fansite : Eminem**  
    - Description rapide : Mon premier fansite créé pour la star Eminem.  
    - Principales technologies utilisées : HTML, CSS, Responsive Design.  
-   - Lien vers le projet : [file:///C:/Users/theof/OneDrive/Bureau/Projet%20Fansite/fansite1.html] [Fansite]
+   - Lien vers le projet :<li><a href="fansite1.html">Eminem</a></li> 
 
 ---
 
@@ -33,7 +33,7 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir exper
 - 🌐 **Portfolio** : [Lien vers ton portfolio]  
 - 💼 **LinkedIn** : [Lien vers ton profil LinkedIn]  
 - 📧 **Email** : [theo.ferrete@gmail.com](mailto:theo.ferrete@gmail.com)  
-- 📸 **Instagram** : [https://www.instagram.com/theo.ferrete13/](Theo Ferrete)  
+- 📸 **Instagram** : [https://www.instagram.com/theo.ferrete13/profile/?igsh=MWJjcDdvd2J3aWdyNg](Theo Ferrete)  
 
 ---
 
