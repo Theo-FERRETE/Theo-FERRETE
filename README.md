@@ -25,7 +25,7 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir exper
 1. **Fansite : Eminem**  
    - Description rapide : Mon premier fansite créé pour la star Eminem.  
    - Principales technologies utilisées : HTML, CSS, Responsive Design.  
-   - Lien vers le projet : [fansite1.html]
+   - Lien vers le projet : [file:///C:/Users/theof/OneDrive/Bureau/Projet%20Fansite/fansite1.html] [Fansite]
 
 ---
 
