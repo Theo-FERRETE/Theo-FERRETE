@@ -1,5 +1,9 @@
 # 👋 Bonjour, moi c'est Theo FERRETE  
 
+![Bannière](Bannière.jpg.jpg)
+
+-----
+
 Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir expert en développement web. Passionné par le Web Design, je cherche à moderniser les sites web et à contribuer à leur attractivité.  
 
 ---
