@@ -35,7 +35,7 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir exper
 - 🌐 **Portfolio** : [Lien vers ton portfolio]  
 - 💼 **LinkedIn** : [Lien vers ton profil LinkedIn]  
 - 📧 **Email** : [theo.ferrete@gmail.com](mailto:theo.ferrete@gmail.com)  
-- 📸 **Instagram** : [https://www.instagram.com/theo.ferrete13/profile/?igsh=MWJjcDdvd2J3aWdyNg](Theo Ferrete)  
+- 📸 **Instagram** : [https://www.instagram.com/theo.ferrete13/profile/?igsh=MWJjcDdvd2J3aWdyNg] (Theo Ferrete)  
 
 ---
 
