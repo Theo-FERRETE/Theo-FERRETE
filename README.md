@@ -17,7 +17,8 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir exper
 - 🌍 **Langues** :  
   - Français : Natif  
   - Anglais : Courant  
-  --
+
+---
 
 - 🎯 **Objectif** :  
   - Moderniser les sites web pour les rendre plus intuitifs et dynamiques.  
@@ -40,6 +41,7 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir exper
 - 💼 **LinkedIn** : [Lien vers ton profil LinkedIn]  
 - 📧 **Email** : [theo.ferrete@gmail.com](mailto:theo.ferrete@gmail.com)  
 - 📸 **Instagram** : [https://www.instagram.com/theo.ferrete13/profile/?igsh=MWJjcDdvd2J3aWdyNg] (Theo Ferrete)  
+- 📞 **Téléphone** : +33 6 69 78 14 52 
 
 ---
 
