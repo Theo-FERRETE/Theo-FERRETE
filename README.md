@@ -37,10 +37,10 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir exper
 ---
 
 ## 🔗 Liens utiles  
-- 🌐 **Portfolio** : [Lien vers ton portfolio]  
-- 💼 **LinkedIn** : [Lien vers ton profil LinkedIn]  
+- 🌐 **Portfolio** : https://theo-ferrete.github.io/Portfolio-V2
+- 💼 **LinkedIn** : www.linkedin.com/in/theo-ferrete-542a6833a 
 - 📧 **Email** : [theo.ferrete@gmail.com](mailto:theo.ferrete@gmail.com)  
-- 📞 **Téléphone** : +33 6 69 78 14 52 
+  
 
 ---
 
