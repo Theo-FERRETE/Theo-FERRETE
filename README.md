@@ -9,12 +9,13 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir exper
 ---
 
 ## 🚀 À propos de moi  
-- 🎓 **Formation** :  
-  - Brevet des Collèges  
-  - BAC PROFESSIONNEL OTM (Organisation des Transport de Marchandises) - Lycée Caucadis, Vitrolles  
-- 🌱 **Actuellement en train d'apprendre** : La cybersécurité et les bases du développement moderne.  
-- 💡 **Centres d'intérêt** : Web Design, amélioration de l’attractivité et de l’ergonomie des sites web.  
-- 🌍 **Langues** :  
+- 🎓 **Formation** :
+- Brevet des Collèges  
+- BAC PROFESSIONNEL OTM (Organisation des Transport de Marchandises) - Lycée Caucadis, Vitrolles.
+- 💡 **Centres d'intérêt** : Web Design, amélioration de l’attractivité et de l’ergonomie des sites web.
+- 🌱 **Actuellement en formation** : DWWM (Développement Web et Web Mobile) de 16 mois avec La Plateforme.
+  
+  🌍 **Langues** :  
   - Français : Natif  
   - Anglais : Courant  
 
@@ -37,7 +38,7 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir exper
 ---
 
 ## 🔗 Liens utiles  
-- 🌐 **Portfolio** : https://theo-ferrete.github.io/Portfolio-V3
+- 🌐 **Portfolio** : https://theo-ferrete.github.io/Portfolio
 - 💼 **LinkedIn** : www.linkedin.com/in/theo-ferrete-542a6833a 
 - 📧 **Email** : [theo.ferrete@gmail.com](mailto:theo.ferrete@gmail.com)  
   
