@@ -30,15 +30,15 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir exper
 ## ✨ Projets phares  
 ### Voici quelques projets dont je suis fier :  
 
-1. **Fansite : Eminem**  
-   - Description rapide : Mon premier fansite créé pour la star Eminem.  
-   - Principales technologies utilisées : HTML, CSS, Responsive Design.  
-   - Lien vers le projet : https://github.com/Theo-FERRETE/Site-Fan/blob/main/fansite1.html
+1. **Site Automobile : Eclipse-Auto**  
+   - Description rapide : Concession Automobile pour montrer ma passion automobile  
+   - Principales technologies utilisées : REACT, CSS, Node , Prisma , POSTGREsql , Supabase , Vercel, Responsive Design.  
+   - Lien vers le projet : https://github.com/Theo-FERRETE/Eclipse-Auto , https://github.com/Theo-FERRETE/Eclipse-Auto-Client , https://github.com/Theo-FERRETE/Eclipse-auto-Express
 
 ---
 
 ## 🔗 Liens utiles  
-- 🌐 **Portfolio** : https://theo-ferrete.github.io/Portfolio
+- 🌐 **Portfolio** : https://next-folio-rho.vercel.app
 - 💼 **LinkedIn** : www.linkedin.com/in/theo-ferrete-542a6833a 
 - 📧 **Email** : [theo.ferrete@gmail.com](mailto:theo.ferrete@gmail.com)  
   
