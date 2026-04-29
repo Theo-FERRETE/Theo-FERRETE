@@ -33,12 +33,13 @@ Bienvenue sur mon GitHub ! Je suis en quête d'une alternance pour devenir exper
 1. **Site Automobile : Eclipse-Auto**  
    - Description rapide : Concession Automobile pour montrer ma passion automobile  
    - Principales technologies utilisées : REACT, CSS, Node , Prisma , POSTGREsql , Supabase , Vercel, Responsive Design.  
-   - Lien vers le projet : https://github.com/Theo-FERRETE/Eclipse-Auto , https://github.com/Theo-FERRETE/Eclipse-Auto-Client , https://github.com/Theo-FERRETE/Eclipse-auto-Express
+   - Lien vers le projet : https://github.com/Theo-FERRETE/Eclipse-Auto-V2
+   - Lien pour le site accesible directement par : https://eclipse-auto.theo-ferrete.fr ou par le portfolio
 
 ---
 
 ## 🔗 Liens utiles  
-- 🌐 **Portfolio** : https://next-folio-rho.vercel.app
+- 🌐 **Portfolio** : https://theo-ferrete.fr
 - 💼 **LinkedIn** : www.linkedin.com/in/theo-ferrete-542a6833a 
 - 📧 **Email** : [theo.ferrete@gmail.com](mailto:theo.ferrete@gmail.com)  
   
